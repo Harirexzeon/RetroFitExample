@@ -11,6 +11,6 @@ public interface IApiMethods {
 
     @GET("/get/curators.json")
     Curator getCurators(
-            @Query("api_key") String key
+            @Query("AIzaSyAar7l96ITXqBev38GgFvC27RzBywPI_Yo") String key
     );
 }

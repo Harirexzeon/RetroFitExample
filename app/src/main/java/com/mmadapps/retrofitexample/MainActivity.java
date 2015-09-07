@@ -11,7 +11,7 @@ import retrofit.RestAdapter;
 
 public class MainActivity extends ActionBarActivity {
     private static final String API_URL = "http://freemusicarchive.org/api";
-    private static final String API_KEY = "-------";
+    private static final String API_KEY = "AIzaSyAar7l96ITXqBev38GgFvC27RzBywPI_Yo";
     TextView textView;
 
     @Override
